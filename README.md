@@ -1,4 +1,6 @@
 # Hello
+<img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Drazenxc&longCache=true"/> <img src="https://img.shields.io/github/stars/razenxc?label=Stars" alt="stars">
+
 ## Server knowledge
 <img title="AWS" alt="AWS" src="https://user-images.githubusercontent.com/84779107/215997808-bb21b973-a24d-48c7-87ed-a5007b489ac9.svg" width="60" height="40" style="vertical-align:down; margin:4px"/> <img title="Oracle Cloud" alt="Oracle Cloud" src="https://user-images.githubusercontent.com/84779107/216001243-394d3558-c1ad-44f6-970d-b0a9bec5ac9f.png" width="60" height="40" style="vertical-align:down; margin:4px"/> <img title="Linux" alt="Linux" src="https://user-images.githubusercontent.com/84779107/215998478-c2ff6fbb-cf04-4e90-81ed-30b371686691.svg" width="60" height="40" style="vertical-align:down; margin:4px"/>
 ## Programming Knowledge
