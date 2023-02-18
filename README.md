@@ -24,7 +24,7 @@ I want to be Full Stack JS Dev
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Web4](https://github.com/razemxc/web4) & Project ARAiU
+- 🔭 I’m currently working on [Web4](https://github.com/razemxc/web4) & Project ARAinUA
   
 
 - 🌱 I’m currently learning JavaScript  
