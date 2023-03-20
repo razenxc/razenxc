@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=razenxc&label=Profile%20views&color=0e75b6&style=flat" alt="razenxc" /> </p>
 
-- 🔭 I’m currently working on [web4](https://github.com/razenxc/web4), [ITechAvenue-bot](https://github.com/razenxc/ITechAvenue-bot) and [OpenAIAPI-TelegramBot](https://github.com/razenxc/OpenAIAPI-TelegramBot)
+- 🔭 I’m currently working on [web4](https://github.com/razenxc/web4) and [ITechAvenue-bot](https://github.com/razenxc/ITechAvenue-bot)
 
 - 🌱 I’m currently learning **JavaScript** and **Telegraf.js**
 
