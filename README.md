@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=razenxc&label=Profile%20views&color=0e75b6&style=flat" alt="razenxc" /> </p>
 
-- 🔭 I’m currently working on [ITechAvenue-bot](https://github.com/razenxc/ITechAvenue-bot)
+- 🔭 I’m currently working on [ITechAvenue-bot](https://github.com/razenxc/CharmCodex-bot)
 
 - 🌱 I’m currently learning **JavaScript** 
 
