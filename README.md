@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=razenxc&label=Profile%20views&color=0e75b6&style=flat" alt="razenxc" /> </p>
 
-- 🔭 I’m currently working on [CharmCodex-bot](https://github.com/razenxc/CharmCodex-bot)
+- 🔭 I’m currently working on Learining Arrays in JavaScript
 
 - 🌱 I’m currently learning **JavaScript** 
 
@@ -13,7 +13,7 @@
 <a href="https://discord.gg/yNnaQrDC3W" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yNnaQrDC3W" height="30" width="40" /></a>
 </p>
 
-<img width="100%" src="https://user-images.githubusercontent.com/84779107/220732119-2b3e5cad-ac79-4bea-8016-57764b442398.png" alt="knowledges"/>
+<img width="100%" src="https://user-images.githubusercontent.com/84779107/230738292-aa6e8ba7-b094-46e0-8366-15fe8c317ffa.png" alt="knowledges"/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=razenxc&show_icons=true&theme=radical&locale=en&layout=compact" alt="razenxc" /></p>
 
