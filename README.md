@@ -13,7 +13,7 @@
 <a href="https://discord.gg/yNnaQrDC3W" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yNnaQrDC3W" height="30" width="40" /></a>
 </p>
 
-<img width="100%" src="https://user-images.githubusercontent.com/84779107/235311926-a00af7a4-efb7-44c7-a0d5-41feda8292e0.png" alt="knowledges"/>
+<img width="100%" src="https://user-images.githubusercontent.com/84779107/236931346-d929cd64-6108-4f9f-a83b-9220f8b7d626.png" alt="knowledges"/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=razenxc&show_icons=true&theme=radical&locale=en&layout=compact" alt="razenxc" /></p>
 
