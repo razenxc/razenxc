@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **[hlxen-launcher](https://github.com/razenxc/hlxen-launcher)**
 
-- 🌱 I’m currently learning C# and WPF
+- 🌱 I’m currently learning nothing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
