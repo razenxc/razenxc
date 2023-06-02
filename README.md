@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **[hlxen-launcher](https://github.com/razenxc/hlxen-launcher)**
 
-- 🌱 I’m currently learning nothing
+- 🌱 I’m currently learning Python and improove HTML&CSS
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
