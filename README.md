@@ -7,6 +7,12 @@
 
 - 🌱 I’m currently learning Python and improove HTML&CSS
 
+<h3>Education</h3>
+
+- Extracurricular music education
+
+- Secondary school education
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/razenxc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="razenxc" height="30" width="40" /></a>
