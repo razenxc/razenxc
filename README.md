@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/razenxc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="razenxc" height="30" width="40" /></a>
-<a href="https://discord.gg/yNnaQrDC3W" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yNnaQrDC3W" height="30" width="40" /></a>
+<a href="https://discord.gg/chill-code-973712150927388752" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yNnaQrDC3W" height="30" width="40" /></a>
 </p>
 
 <img width="100%" src="https://github.com/razenxc/razenxc/assets/84779107/91689b9e-263b-4b82-b794-af63528d39bf" alt="knowledges"/>
