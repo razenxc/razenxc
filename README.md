@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alexey</h1>
-<h3 align="center">I want to be Software Engineer</h3>
+<h3 align="center">I want to be u№d$f!№$d</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=razenxc&label=Profile%20views&color=0e75b6&style=flat" alt="razenxc" /> </p>
 
 - 🔭 I’m currently working on nothing
 
-- 🌱 I’m currently learning Python and improove HTML&CSS
+- 🌱 I’m currently learning nothing
 
 <h3>Education</h3>
 
