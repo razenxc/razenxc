@@ -7,11 +7,6 @@
 - Extracurricular music education
 
 - Secondary school education
-
-<p align="left">
-<a href="https://discord.gg/chill-code-973712150927388752" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yNnaQrDC3W" height="30" width="40" /></a>
-</p>
-
 <hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=razenxc&show_icons=true&theme=radical&locale=en&layout=compact" alt="razenxc" /></p>
 
