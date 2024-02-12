@@ -8,6 +8,8 @@
 
 - Secondary school education
 <hr>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=razenxc&show_icons=true&theme=radical&locale=en&layout=compact" alt="razenxc" /></p>
+<p align="center">
+  <img src="https://myreadme.vercel.app/api/embed/razenxc?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=razenxc&show_icons=true&theme=radical&locale=en" alt="razenxc" /></p>
+
