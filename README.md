@@ -7,4 +7,3 @@
 - Extracurricular music education
 
 - Secondary school education
-<hr>
