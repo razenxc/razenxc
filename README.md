@@ -1,3 +1,7 @@
+> [!CAUTION]
+> ### [ANDROID WILL BECOME A LOCKED-DOWN PLATFORM](https://keepandroidopen.org/)
+> **Click here to check the countdown and find out how to help!**
+
 <h2 align="right">Hi 👋! I'm Alexey</h2>
 
 ###
